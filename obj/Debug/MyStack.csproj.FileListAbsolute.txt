@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\MyStack\obj\Debug\MyStack.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyStack\obj\Debug\MyStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyStack\obj\Debug\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyStack\bin\Debug\MyStack.exe
+C:\Users\Wiz\Desktop\IGME 201\MyStack\bin\Debug\MyStack.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyStack\obj\Debug\MyStack.exe
+C:\Users\Wiz\Desktop\IGME 201\MyStack\obj\Debug\MyStack.pdb
